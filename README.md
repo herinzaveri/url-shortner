@@ -18,7 +18,7 @@ GET /urls
 
 ## Shorten a url
 
-POST /shorten \
+POST /shorten
 
 body: {
 "url": "" // some url
